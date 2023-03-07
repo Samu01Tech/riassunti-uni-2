@@ -26,84 +26,64 @@ L'ingegneria del software si occupa di:
 
 Il **processo** di creazione di un software utilizza **metodi**, tramite **strumenti**. In tutto il processo particolare attenzione è alla **qualità**.
 
+## Modelli
 
+1. Modello a **cascata**: il modello a cascata è un approccio sequenziale alla creazione di software in cui ogni fase del processo viene completata prima di passare alla successiva. Le fasi includono l'analisi dei requisiti, la progettazione, lo sviluppo, i test e la manutenzione.
 
-## Modello di processo a cascata
+2. **Processo incrementale**: questo modello prevede lo sviluppo del software in modo incrementale, in cui il prodotto finale viene costruito in diverse fasi. Ad ogni fase, viene aggiunto funzionalità al software, in modo che alla fine sia completo.
 
-Sapendo a priori i requisiti:
+3. Modello **prototipale**: questo modello prevede la creazione di prototipi del software, in modo da poter testare l'idea e verificare se funziona come previsto. Questo approccio può essere utile in situazioni in cui i requisiti non sono ancora ben definiti.
 
-```mermaid
-flowchart LR
-Comunicazione --> Pianificazione --> Modellazione --> Costruzione --> Deployment
-```
+4. Modello a **spirale**: questo modello prevede lo sviluppo del software in modo iterativo, in cui ogni iterazione passa attraverso quattro fasi: pianificazione, analisi dei rischi, sviluppo e valutazione.
 
-1. inizio progetto, raccolta requisiti
+5. Modello a **componenti**: questo modello prevede l'uso di componenti predefinite per costruire il software. In questo modo, i componenti possono essere riutilizzati in diversi progetti, riducendo il tempo di sviluppo complessivo e aumentando la produttività.
 
-2. stima, piaificazione, controllo
+## Service Oriented Architecture (SOA)
 
-3. analisi, design
+È un paradigma architetturale per la progettazione e lo sviluppo di software. Il sistema si compone di servizi autonomi, indipendenti e modulari, richiamabili da una interfaccia standard. Ciò favorisce la creazione di sistemi software che sono più flessibili, scalabili, interoperabili e riutilizzabili.
 
-4. programmazione, testing
+## Model Driven Development (MDD)
 
-5. consegna, suppoorto, feedback
+Il Model Driven Development (MDD) è un approccio alla creazione di software che si basa sulla creazione di modelli software come il nucleo della progettazione, produzione e manutenzione del software. In MDD, il modello è il documento di progetto principale, che rappresenta il software in un formato astratto, indipendente dalla piattaforma di destinazione. In esso vengono usati linguaggi come l'UML. Il software che ne esce è più efficiente e di qualità. 
 
-*esempio IBM*
+## Approccio o Metodo Agile
 
-![](C:\Users\Samu\AppData\Roaming\marktext\images\2023-03-01-14-18-14-image.png)
-
-## Modello di processo incrementale
-
-![](C:\Users\Samu\AppData\Roaming\marktext\images\2023-03-01-14-19-53-image.png)
-
-Ovvero aggiungo funzionalità poco alla volta
-
-## Modello a prototipi
-
-![](C:\Users\Samu\AppData\Roaming\marktext\images\2023-03-01-14-24-16-image.png)
-
-## Prototipi
-
-> Una rappresentazione di un prodotto o di un sistema, o di una sua parte, che, anche se in 
-> qualche modo limitata, può essere utilizzata a scopo di **valutazione**.
-
-
-
-- **Wireframe**: il focus è nella user experience design (trovare la migliore user experience).
-
-- **Mock-up**: rappresenta la fase successiva in cui gli elementi del design entrano in gioco (colore, caratteri, immagini, etc) – si hanno più dettagli per dimostrare il look and feel (quello che sarà il prodotto).
-
-## Modello a Spirale
-
- [La modellazione a spirale è un modello procedurale per lo sviluppo di software che si basa sull’analisi e la gestione dei rischi](https://www.ionos.it/startupguide/produttivita/modello-a-spirale/)[1](https://www.ionos.it/startupguide/produttivita/modello-a-spirale/)[2](https://www.ionos.it/startupguide/produttivita/modello-a-spirale/). [Il modello a spirale prevede quattro fasi principali: pianificazione, analisi dei rischi, sviluppo e verifica](https://www.ionos.it/startupguide/produttivita/modello-a-spirale/)[2](https://www.ionos.it/startupguide/produttivita/modello-a-spirale/). Queste fasi si ripetono ciclicamente fino al completamento del software.
-
-La modellazione a spirale richiede più tempo e risorse per l’analisi dei rischi ma offre una maggiore flessibilità e adattabilità ai cambiamenti. La modellazione a processo incrementale richiede una definizione chiara dei requisiti e delle funzionalità ma offre una maggiore soddisfazione del cliente e una migliore qualità del software.
-
-## Modello a Componenti
-
-Ovvero vengono usati componenti software con funzionalità specifiche e interfacce ben definite.
-
-Usare componenti consente di suddividere progetti complessi in cose pià semplici. Attenzione ai diversi environment dove viene usato il componente.
-
-
-
-## Modello a Servizi
-
-## Model Driven Development
-
-## Metodo Agile
+La metodologia Agile è un approccio alla gestione del progetto che si concentra sulla flessibilità, l'adattabilità e la collaborazione tra team di lavoro. Si basa su valori come la comunicazione continua, la risposta ai cambiamenti, la consegna continua e la soddisfazione del cliente. La metodologia Agile può essere applicata sia a una SOA che agli altri modelli.
 
 ### Documentazione
 
-## Metodo SCRUM
+Mettendo a confronto una metodologia tradizionale a cascata e una metodoloogia Agile, si nota come la prima abbia una curva molto più ripida nella scrittura della documentazione, in quanto richiesta dal metodo in se. UNa metodoloogia Agile invece cresce gradualmente insieme al progetto aveendo una leggera crescita nel finale. 
 
-## Extreme Programming
+## Applicazioni dell'Agile
 
-### Programmazione
+### Scrum
 
-### Testing
+Scrum è un framework specifico di progettazione software. Si basa su un approccio iterativo e incrementale, il lavoro è organizzato in sprint di breve durata. Il **Product Owner** definisce e controlla il **backlog**, ovevro il lavoro da fare.
+
+### Extreme Programming (XP)
+
+XP è una metodologia di sviluppo software Agile che si concentra sulla produzione di software di alta qualità e sulla massimizzazione della soddisfazione del cliente.
+
+XP è composto da una serie di pratiche di sviluppo software, come:
+
+- **testing automatizzato** - vengono scritti test pria ancora di inziare lo sviluppo
+
+- **programmazione a coppie** - due programmatori lavorano sullo stesso computer per ridurre errori
+
+- l'integrazione continua (**CI**) - piccole aggiunte di codice ogni volta
+
+- **refactoring** - riscrittura del codice in maniera più pulita
+
+Queste pratiche sono progettate per migliorare la qualità del software e ridurre il rischio di errori e di fallimenti del progetto.
+
+Il planning fa uso di **user stories** che descrivono le funzionalità del software richieste dal cliente. Ciascuna ha un "costo" che si traduce in tempo da dedicargli.
+
+Gli **unit test** mettono alla prova le singole user stories.
 
 ## DevOps
 
+Sempre più spesso i software vengono installati in grandi e complesse infrastrutture. È necessario coordinare gli sviluppatori (Dev) con chi gestisce l'infrastruttura (Ops). 
+
 ## Modularizzazione e microservizi
 
-
+È una architettura adatta per lo sviluppo di grandi applicazioni e chhe sfrutta il cloud, evoluzione delle SOA. 

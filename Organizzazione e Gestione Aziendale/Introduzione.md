@@ -207,15 +207,11 @@ La **logica di processo** consiste nel cercare i processi che creano maggiore va
 
 - **Società**: concretizza in termini giuridici le precedenti
 
-
-
 - Società di Persone (ss, snc, sas) - personale
 
 - Società di Capitali (srl, spa, sapa) - fino al capitale
 
 Cambia la responsabilità dell'azienda.
-
-
 
 ## Governance
 
@@ -231,8 +227,6 @@ Insieme delle regole dell’impresa come istituzione (soggetto giuridico), secon
 
 - Direttore Generale - coordinatore
 
-
-
 ## Ambiente, mercati e settori
 
 - **Ambiente**: contesto in cui lavora l'azienda
@@ -240,8 +234,6 @@ Insieme delle regole dell’impresa come istituzione (soggetto giuridico), secon
 - **Mercato**: dove avviene lo scambio di risorse
 
 - **Settori**: raggruppamento strategico
-
-
 
 ## Performance
 
@@ -257,6 +249,91 @@ Essi sono determinati da una **gestione azindale caratteristica** (operazioni no
 
 - **non cost** qualità e tempo -> impatto su prestazioni esterne (es. prodotto, servizio: visione dall'esterno dell'azienda) -> impatto sull'utile
 
+## Teorie del pensiero organizzativo
 
+### Strutture
 
+**Teorie sul soggetto**
 
+- Teorie della scuola classica
+
+- Teorie della scuola delle relazioni umane - Teorie motivazionali
+
+**Teorie sui sistemi**
+
+- Funzionalismo
+
+- Neoistituzionalismo
+
+- Teoria della contingenza
+
+- Teoria dei costi di transazione
+
+### Approccio
+
+- Deterministico (visione economica, burocratica)
+
+- Possibilistico (considera gli elementi comportamentali degli individui)
+
+|          | Deterministico                        | Possibilistico                                                     |
+| -------- | ------------------------------------- | ------------------------------------------------------------------ |
+| Soggetti | Teorie della scuola classica          | Teorie della scuola delle relazioni umane<br/>Teorie motivazionali |
+| Sistemi  | Funzionalismo<br/>Neoistituzionalismo | Teoria della contingenza  <br/>Teoria dei costi di transazione     |
+
+### La scuola classica
+
+- *Scientific management* di Taylor - attraverso una selezione scientifica dell'operaio, simil Hanry Ford, retribuzione a cottimo
+
+- Teoria amministrativa di Fayol - rende scientifica l'attività di Direzione, suddivide in *funzioni*, prospettiva gerarchica
+
+- Teoria burocratica di Weber - 
+
+### La scuola delle relazioni umane
+
+Le persone si adattavano in base alla richiesta -> fattore psicologico: le operaie producevano di più perché sotto esperimento. 
+
+**Piramide di Maslow**
+
+![](C:\Users\Samu\AppData\Roaming\marktext\images\2023-03-06-09-00-59-image.png)
+
+- Teoria di Likert - stile di manager
+  
+  - stile autoritario
+  
+  - stile paternalistico
+  
+  - stile consultivo
+  
+  - stile partecipativo
+
+### La teoria della contingenza
+
+Il modello da preferire dipende da una serie di fattori **contingenti**
+
+- con. ambientale - instabili o stabili
+
+- con. strategica - 
+
+- con. teconologica
+
+- con. dimensionale
+
+### La teoria dei costi di transazione
+
+*Make or Buy*: ci conviene autocostruirci un prodotto o comprarlo da un fornitore?
+
+**Costi di transazione**: scambi di beni e sevizi, relazioni. Migliorato con la digitalizzazione.
+
+**Assimmetria Infromativa**: opportunismo, il fornitore potrebbe "fregare" il compratore, che non conosce l'ambito.
+
+**Transaction Cost Economics**: in bassa presenza di opportunismo, converrebbe l'acquisto esterno. Nell'esempio del contesto automotive invece, per alcuni componenti importanti, converrebbe controllare il processo. Un'opzione è anche *inglobare il fornitore*. Importanza anche dei **contratti (ad-hoc agreements)** o anche delle **joint venture**.
+
+### Teorie più recenti
+
+- Investimenti e risorse nel core business
+
+- Outsourcing
+
+- MInore gerarchia
+
+- Sviluppo di relazioni strategiche-operative

@@ -172,5 +172,3 @@ However, they do not address the overall quality of the user experience, which i
 Is the practice of testig how easy a design is to use on a group of representative users. You observe users. 
 
 ## Project Management
-
-
