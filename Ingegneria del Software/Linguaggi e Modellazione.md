@@ -36,7 +36,7 @@ It is the OG standard for representing business processes.
 
 - Agile Model - is a metodology
 
-### UML
+### Unified Machine Language
 
 È un linguaggio di modellazione utilizzato per specificare, progettare e documentare i sistemi software. Sviluppato dall'Object Management Group, è usato per creare una rappresentazione visual dei diversi aspetti del sistema software.
 
@@ -54,7 +54,7 @@ It is the OG standard for representing business processes.
 
 - Deployment diagram
 
-## OCL
+## Object Constraint Language
 
 Linguaggio puramente funzionale per scrivere espressioni e vincoli sui modelli object-oriented. 
 
