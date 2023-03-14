@@ -2,8 +2,6 @@
 
 I bisogni di un cliente sono espressi come **scopi**. Per conseguire uno scopo abbiamo bisogno di specificare una serie di **funzioni**.
 
-
-
 ## Requirements engineering
 
 Il proocesso di stabilire i servizi richiesti dal cliente per un certo sistema. 

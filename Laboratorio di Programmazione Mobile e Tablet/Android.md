@@ -28,8 +28,6 @@ ART è basata su tecnologia Ahead of Time, e  non JIT come Dalvik.
 
 -> migliore risparmio energetico ma aumena anche il consumo di spazio sulla memoria del dispositivo.
 
-
-
 ## Riassumendo
 
 - Dispositivo Hardware - android è agnostico rispetto al processore, ma sfrutta funzioni specifiche per la sicurezza
@@ -45,8 +43,6 @@ ART è basata su tecnologia Ahead of Time, e  non JIT come Dalvik.
 - Web-based
 
 - Integrazione con terze parti (es. bot telegram)
-
-
 
 - Nativo
 
