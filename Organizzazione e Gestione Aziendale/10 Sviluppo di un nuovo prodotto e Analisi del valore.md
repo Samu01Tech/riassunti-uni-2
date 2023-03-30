@@ -1,6 +1,6 @@
 # Sviluppo di un nuovo prodotto e Analisi del valore
 
-**Innovazione** porta a un valore economico, **Invenzione**
+**Innovazione** porta a un valore economico, **Invenzione ...**
 
 Evitare un fallimento nel lancio vuol dire:
 
@@ -10,9 +10,7 @@ Evitare un fallimento nel lancio vuol dire:
 
 - testare il prodotto
 
-- far capire all'utente come va uutilizzato il prodotto
-
-- no sorvolare su chi compra il prodotto e a che prezzo
+- far capire all'utente come va utilizzato il prodotto
 
 La progettazione passa sia da quella dei **prodotti e servizi** sia quella dei **processi**. è importante pensare al ciclo ricorsivo **cliente, marketing e progettazione**.
 
@@ -58,7 +56,7 @@ Il concetto di **Preliminary design** consiste nell'avere fattori di modularità
 
 ### 4. Valutazione e miglioramento
 
-Valutazione delle alternative ee miglioramenti prima del lancio.
+Valutazione delle alternative e miglioramenti prima del lancio.
 
 Tecniche di supporto comunemente utilizzate:
 
@@ -82,15 +80,13 @@ Tecniche di supporto comunemente utilizzate:
 
 - CAD
 
-
-
 ## Analisi del Valore
 
 Il valore è il rapporto tra la soddisfazione delle esigenze e l'utilizzo delle risorse, per ottenere la più favorevole situazione di equilibrio.
 
 L'"oggetto AV" può essere un prodotto già esistente o un prodotto nuovo in via di sviluppo. La procedura di analisi del valore è attuata da una **squadra AV** ed è caratterizzata da un **piano di lavoro AV**.
 
-> Ad esempio TOyota e Fiat che tramite questa anlaisi hanno ridotto i costi per la produzione dei motori per autoveicoli.
+> Ad esempio Toyota e Fiat che tramite questa analisi hanno ridotto i costi per la produzione dei motori per autoveicoli.
 
 1. Fase Informativa
 
@@ -110,8 +106,6 @@ L'"oggetto AV" può essere un prodotto già esistente o un prodotto nuovo in via
 
 - Costi globali - costi dell'intero ciclo di vita
 
-
-
 > Esempio Fincantieri
 > 
 > 1. schemi e normative vigenti
@@ -124,9 +118,9 @@ L'"oggetto AV" può essere un prodotto già esistente o un prodotto nuovo in via
 > 
 > 5. presentazione al committente
 
+# Domande aperte all'esame
 
-
-POrter, segmentazione -_> punta tutto sugli esempi_
+Porter, segmentazione -_> punta tutto sugli esempi_
 
 è tutta una questione di tempo, costo e consegna. è così che selezioniam i nostri fornitori. 
 
@@ -139,9 +133,3 @@ POrter, segmentazione -_> punta tutto sugli esempi_
 Uso di schemi grafici
 
 POssibili altri cirteri da analizzare rispetto a quelli segnalati, hano gli stessi pesi?
-
-
-
-
-
-

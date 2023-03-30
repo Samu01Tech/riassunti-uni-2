@@ -96,5 +96,3 @@ Le aziende usano al promozione per comunicare il valore in modo chiaro e persuas
 - Marketing Diretto
 
 - Personal Selling
-
-

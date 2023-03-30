@@ -31,3 +31,5 @@ La strategia è influenzata sia dall'**ambiente esterno** che dall'**azienda** s
 Insieme di imprese che producono beni o servizi in concorrenza diretta tra loro, ossia percepiti dalla domanda come sostituti per l’utilizzo che ne viene fatto
 
 La sostituibilità può essere completa o parziale. 
+
+*[continua nel 5 (SCP)...]*

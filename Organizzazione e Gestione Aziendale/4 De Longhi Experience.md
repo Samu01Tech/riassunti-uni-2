@@ -8,8 +8,6 @@ Suddiviso in aree comuni per elettronica ma diviso per regionali in tipo imballa
 | ------------------------------------------------------------------------ | -------------------------- | ------------------ |
 | - logistics<br/>- alternative to china<br/>- row material<br/>- low cost | - lowe cost<br/>- physical |                    |
 
-
-
 # report
 
 Market Intelligence Report for 5 Commodities in North Africa

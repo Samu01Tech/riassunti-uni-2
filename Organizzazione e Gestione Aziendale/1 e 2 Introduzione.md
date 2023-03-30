@@ -181,7 +181,7 @@ La **logica di processo** consiste nel cercare i processi che creano maggiore va
 
 **Output**: Prodotto o Servizio
 
-### I meccanismi di coordinameto del lavoro
+### I meccanismi di coordinamento del lavoro
 
 - Obiettvi
 
@@ -241,7 +241,7 @@ Insieme delle regole dell’impresa come istituzione (soggetto giuridico), secon
 
 - Redditività = Utile / Investimento
 
-Essi sono determinati da una **gestione azindale caratteristica** (operazioni normali), **gestione aziendale extra-caratteristica** (ricerca capitale) e **congiuntura economica** (fattori di contesto, istituzionali e di mercato, non controllabili)
+Essi sono determinati da una **gestione aziendale caratteristica** (operazioni normali), **gestione aziendale extra-caratteristica** (ricerca capitale) e **congiuntura economica** (fattori di contesto, istituzionali e di mercato, non controllabili)
 
 **Leve Operative**: tecnologiche, organizzative e gestionali. Agiscono sulle prestazioni operative (interne).
 
@@ -286,7 +286,7 @@ Essi sono determinati da una **gestione azindale caratteristica** (operazioni no
 
 - Teoria amministrativa di Fayol - rende scientifica l'attività di Direzione, suddivide in *funzioni*, prospettiva gerarchica
 
-- Teoria burocratica di Weber - 
+- Teoria burocratica di Weber - basata ssulla burocrazia
 
 ### La scuola delle relazioni umane
 

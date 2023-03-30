@@ -38,7 +38,7 @@ Le imprese sono guidate dal principio di **creare valore per il cliente**, difer
 
 ## Il modello di Porter
 
-Anche al strategia può influenzare il settore. Alla base della scelta di questa ci sono l'attrattività e la posizione competitiva relativa. 
+Anche la strategia può influenzare il settore. Alla base della scelta di questa ci sono l'attrattività e la posizione competitiva relativa. 
 
 > La strategia competitiva scelta dall’impresa è in grado di influenzare e modificare la struttura del settore.
 > 
@@ -86,11 +86,7 @@ Anche al strategia può influenzare il settore. Alla base della scelta di questa
 
 - vincoli sociali e governativi
 
-
-
 % vendita fornitori
-
-
 
 % acquisti cliente
 
@@ -116,7 +112,7 @@ La mappatura strategica consiste nella rappresentazione grafica dei competitors 
 
 ### Catena del Valore (analisi dell'ambiente interno)
 
-Essa fornisce una rappresentazione schematica delle attivtà svolte dall'impresa, evidenziandone il valore creeato e i costi sopportati per la creazione di tale valore.
+Essa fornisce una rappresentazione schematica delle attivtà svolte dall'impresa, evidenziandone il valore creato e i costi sopportati per la creazione di tale valore.
 
 Può essere suddivisa in **singole unità di business**. 
 

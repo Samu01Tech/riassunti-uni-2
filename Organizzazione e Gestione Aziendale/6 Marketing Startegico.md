@@ -98,7 +98,7 @@ Tasso di crescita del mercato - quanta concorrenza c'è nel mercato al momento
 - **Cash Cows**: prodotti o attività con un’elevata quota di mercato ma in un mercato a bassa crescita. Necessitano di bassi investimenti per mantenere la quota di mercato, ma sono 
   estremamente profittevoli.
 
-- **Question Marks**: prodotti o attività con ridotta quota di mercato in mercati ad alto tasso di crescita. Necessitano dunque di molti investimenti pe mantenere la loro posizione ma sono poco remunerativi. Necessario chiedersi se dismetterli o spostarli nel quadrante stars.
+- **Question Marks**: prodotti o attività con ridotta quota di mercato in mercati ad alto tasso di crescita. Necessitano dunque di molti investimenti per mantenere la loro posizione ma sono poco remunerativi. Necessario chiedersi se dismetterli o spostarli nel quadrante stars.
 
 - **Dogs**: prodotti o attività con ridotta quota di mercato in un mercato a bassa crescita. Non richiedono molte risorse ma non generano ricchezza.
 

@@ -91,32 +91,8 @@ demographic -> operational -> buying -> situational -> personal
 - uso di basi di segmentazione per creare matrici mercati/prodotti
 
 - si eliminano quelli meno interessanti
-
-
-
 1. si estraggono le variabili principali da una checklist
 
 2. vengono esplorate nuove variabili
 
 3. le variabili sono confrontate a coppie, eliminando gli incroci
-
-
-
-> ES The North Face
-
-**Tipo di segmentazione**: Merketing Concentrato
-
-**Clienti**: 
-
-- stile di vita -> sportivo
-
-- comportamento del cliente -> utilizzo del prodotto
-
-- bisogni del cliente: qualità del prodotto ma anche sicurezza
-
-|          | Attivo | Passivo |
-| -------- | ------ | ------- |
-| Montagna | X      | X       |
-| Mare     | n      | n       |
-
-
