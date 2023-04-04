@@ -1,7 +1,5 @@
 # Sviluppo di un nuovo prodotto e Analisi del valore
 
-**Innovazione** porta a un valore economico, **Invenzione ...**
-
 Evitare un fallimento nel lancio vuol dire:
 
 - avere un piano di scalabilità della produzione

@@ -1,4 +1,4 @@
-# Marketing Startegico
+# Marketing Strategico
 
 ## Processo di Marketing
 

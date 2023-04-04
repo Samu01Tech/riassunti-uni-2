@@ -33,13 +33,13 @@ Il prezzo è determinato da:
 
 - Concorrenza sul mercato
 
-### Startegie di prezzo per nuovi prodotti
+### Strategie di prezzo per nuovi prodotti
 
 - Market-skimming price: prezzo elevato al lancio per poi scendere col tempo verso nuovi clienti
 
 - Market-penetration price: prezzo basso al lancio per puntare sui volumi di vendita
 
-### Startegie di prezzo per mix di prodotti
+### Strategie di prezzo per mix di prodotti
 
 - Prezzi per linee di prodotti
 
@@ -69,7 +69,7 @@ Il prezzo è determinato da:
 
 ## Place
 
-Si punta ai **canali di distribuzione**, specialmente sulla caatena di fornitura a valle. Ci si affida a **intermediari** perché sono specialisti nella vendita e conviene dal punto di vista dei costi. Il canale di distribuzione può essere diretto al consumantore o tramite uno o più intermediari (agente, whole sale, reatailer): questi ultimi cercano di lavorare insime e non come una catena.
+Si punta ai **canali di distribuzione**, specialmente sulla caatena di fornitura a valle. Ci si affida a **intermediari** perché sono specialisti nella vendita e conviene dal punto di vista dei costi. Il canale di distribuzione può essere diretto al consumatore o tramite uno o più intermediari (agente, whole sale, reatailer): questi ultimi cercano di lavorare insime e non come una catena.
 
 ### Un sistema di marketing verticale: Franchising
 

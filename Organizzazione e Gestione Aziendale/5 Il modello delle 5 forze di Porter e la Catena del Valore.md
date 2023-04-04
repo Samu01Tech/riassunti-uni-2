@@ -2,7 +2,7 @@
 
 Insieme di imprese che producono beni o servizi in concorrenza diretta tra loro, ossia percepiti dalla domanda come *sostituti* per l’utilizzo che ne viene fatto. 
 
-La sostituibilità può essere **completa** o **parziale**. I settori possono essere in concorrenza perfettta, monopolio o oligopolio.
+La sostituibilità può essere **completa** o **parziale**. I settori possono essere in concorrenza perfetta, monopolio o oligopolio.
 
 ## Fattori determinanti la strategia competitiva
 
@@ -34,7 +34,7 @@ La sostituibilità può essere **completa** o **parziale**. I settori possono es
 
 Si cerca di migliorare un approccio troppo rigido, dando maggiore importanza al ruolo.
 
-Le imprese sono guidate dal principio di **creare valore per il cliente**, diferrenziandosi dai competitor.
+Le imprese sono guidate dal principio di **creare valore per il cliente**, differenziandosi dai competitor.
 
 ## Il modello di Porter
 
@@ -50,7 +50,7 @@ Anche la strategia può influenzare il settore. Alla base della scelta di questa
 
 <img src="file:///C:/Users/Samu/AppData/Roaming/marktext/images/2023-03-13-09-06-13-image.png" title="" alt="" width="823">
 
-*documentario su netflix di Boeing*
+*documentario su Netflix di Boeing*
 
 1. Rivalità concorrenziale tra soggetti esistenti
 
@@ -74,7 +74,7 @@ Anche la strategia può influenzare il settore. Alla base della scelta di questa
 
 - differenziazione
 
-**Barriere al'uscita**:
+**Barriere all'uscita**:
 
 - Specializzazione degli investimenti
 
@@ -112,7 +112,7 @@ La mappatura strategica consiste nella rappresentazione grafica dei competitors 
 
 ### Catena del Valore (analisi dell'ambiente interno)
 
-Essa fornisce una rappresentazione schematica delle attivtà svolte dall'impresa, evidenziandone il valore creato e i costi sopportati per la creazione di tale valore.
+Essa fornisce una rappresentazione schematica delle attività svolte dall'impresa, evidenziandone il valore creato e i costi sopportati per la creazione di tale valore.
 
 Può essere suddivisa in **singole unità di business**. 
 

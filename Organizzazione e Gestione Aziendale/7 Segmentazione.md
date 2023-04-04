@@ -1,6 +1,6 @@
 # Segmentazione
 
-**Segmentazione del mercato** - divisione del mercato in gruppi acquirenti ben distinti con bisogni, caratteristiche  e comportamenti diifferenti.
+**Segmentazione del mercato** - divisione del mercato in gruppi acquirenti ben distinti con bisogni, caratteristiche  e comportamenti differenti.
 
 **Targeting** - valutazione dell'attrattività di un determinato segmento di mercato.
 
@@ -10,7 +10,7 @@
 
 La segmentazione è un trade-off tra due approcci opposti: Taylor-like, dove si parla di **mass marketing**, nel quale il prodotto è uno per tutti i clienti. Abbiamo poi i prodotti su misura dove ogni cliente è un mercato, e viene descritto come **marketing one-to-one**. 
 
-Attravero la segmentazione si cerca di produrre un prodotto simile ma adatto a diverse esigenze, ad esempio con i gusti di CocaCola.
+Attraverso la segmentazione si cerca di produrre un prodotto simile ma adatto a diverse esigenze, ad esempio con i gusti di CocaCola.
 
 **Vantaggi**
 

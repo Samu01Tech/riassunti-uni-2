@@ -16,7 +16,7 @@ La strategia è influenzata sia dall'**ambiente esterno** che dall'**azienda** s
 
 > Strategy without tactics is the slowest route to victory.
 > 
-> Tactics without strategy is the noise before defeat
+> Tactics without s P)...]*
 
 **I tre livelli di strategia**:
 

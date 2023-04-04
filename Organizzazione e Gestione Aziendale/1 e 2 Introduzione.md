@@ -10,7 +10,7 @@ Mail: `marco.formentini@unitn.it`
 
 ## Organizzazione
 
-È un'entità sociale compelssa, progettata, strutturata e coordinata, guidata da obiettivi e composta da persone che si dividono il lavoro, secondo una gerarchia, per essere più produttivi e rapportarsi meglio con l'ambiente esterno.
+È un'entità sociale complessa, progettata, strutturata e coordinata, guidata da obiettivi e composta da persone che si dividono il lavoro, secondo una gerarchia, per essere più produttivi e rapportarsi meglio con l'ambiente esterno.
 
 *Tonchia*
 
@@ -58,7 +58,7 @@ Definisce i compiti e le aree di intervento delle unità organizzative ed operat
 
 - a matrice (IN & OUT)
 
-### SIstemi operativi
+### Sistemi operativi
 
 Vanno a supporto delle decisioni (es. Sistemi Informativi Aziendali)
 
