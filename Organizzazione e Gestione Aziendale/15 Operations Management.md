@@ -36,4 +36,32 @@ I prodotti diventano sempre più servizi (**servitization**): ad esempio come i 
 
 ![](../assets/2023-04-27-15-21-51-image.png)
 
+## Processi di produzione
 
+I processi di produzione possono variare molto in base al prodotto che si vuole costruire:
+
+![](../assets/2023-05-04-14-09-16-image.png)
+
+### Progetto
+
+Ha come obiettivo la produzione di un prodotto unico, che punta sulla varietà. Importante il coordinamento di risorse.
+
+### Job Shop (produzione per reparto)
+
+Un singolo edificio contiene tutto quello che serve per la produzione ma in piccola scala. (es. cucine su misura)
+
+### Batch (lotti)
+
+Il volume inizia a essere importante da richiedere dell'automazione che deve però essere flessibile nelle modifiche. Necessita un tempo di setup.
+
+### Produzione in linea
+
+Quando è necessario un elevato volume. Il **tempo di ciclo** da il ritmo alla linea. Flessibilità limitata.
+
+### Produzione a ciclo continuo
+
+Ovvero produzione a flusso continuo, spesso dettata da requisiti specifici (es. industrie chimiche).
+
+## Layout
+
+<da completare>
