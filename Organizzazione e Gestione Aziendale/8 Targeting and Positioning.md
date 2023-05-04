@@ -32,8 +32,7 @@ Serve a individuare i target in cui posizionare i propri segmenti target
 
 - 9 caselle, a ciascuna è assegnato un comportamento strategico ottimale
 
-- Il posizionamento nella matrice viene effettuato attraverso la valutazione 
-  ponderata di un determinato numero di fattori
+- Il posizionamento nella matrice viene effettuato attraverso la valutazione ponderata di un determinato numero di fattori
 
 ![](../assets/2023-03-24-11-16-27-image.png)
 

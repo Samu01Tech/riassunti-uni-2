@@ -69,7 +69,7 @@ Il prezzo è determinato da:
 
 ## Place
 
-Si punta ai **canali di distribuzione**, specialmente sulla caatena di fornitura a valle. Ci si affida a **intermediari** perché sono specialisti nella vendita e conviene dal punto di vista dei costi. Il canale di distribuzione può essere diretto al consumatore o tramite uno o più intermediari (agente, whole sale, reatailer): questi ultimi cercano di lavorare insime e non come una catena.
+Si punta ai **canali di distribuzione**, specialmente sulla catena di fornitura a valle. Ci si affida a **intermediari** perché sono specialisti nella vendita e conviene dal punto di vista dei costi. Il canale di distribuzione può essere diretto al consumatore o tramite uno o più intermediari (agente, whole sale, reatailer): questi ultimi cercano di lavorare insieme e non come una catena.
 
 ### Un sistema di marketing verticale: Franchising
 

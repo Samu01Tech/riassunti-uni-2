@@ -314,7 +314,7 @@ Il modello da preferire dipende da una serie di fattori **contingenti**
 
 - con. strategica - 
 
-- con. teconologica
+- con. tecnologica
 
 - con. dimensionale
 
@@ -334,6 +334,6 @@ Il modello da preferire dipende da una serie di fattori **contingenti**
 
 - Outsourcing
 
-- MInore gerarchia
+- Minore gerarchia
 
 - Sviluppo di relazioni strategiche-operative
