@@ -8,8 +8,16 @@ La strategia operativa si riferisce all'insieme di decisioni e azioni intraprese
 
 ## The 4 perspectives of operations strategy
 
-Corporate strategy -> Business Strategy -> Operations strategy <- Operational Experience
+- **Top-down** - analize going from the business strategy down to the operations.
 
-Market requirement perspective
+- **Bottom-up** - analize from the operations level gathering informations and reporting to the development of operations strategy.
 
-operations resources perspective
+- **Operations resources perspective** - 
+
+- **Market requirement perspective**
+
+?? 
+
+1. The outside-in perspective: This perspective looks at the operations function from the perspective of customers, suppliers, and other stakeholders external to the organization. It emphasizes the importance of understanding the needs and expectations of these stakeholders and aligning the operations strategy accordingly.
+
+2. The inside-out perspective: This perspective focuses on the internal capabilities of the operations function and how they can be leveraged to create competitive advantage. It emphasizes the importance of developing unique capabilities and processes that set the organization apart from its competitors.
