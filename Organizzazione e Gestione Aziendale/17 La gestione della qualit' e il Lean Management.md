@@ -136,7 +136,7 @@ Ovvero sincronizzare il processo di produzione con la domanda del prodotto.
 
 1. produrre al rateo della domanda del consumatore
    
-   1.  piccole batch e riduzione del tempo/costo di setup. Procedura **SMED**, ovvero spostare gli strumenti per ottimizzare.
+   1. piccole batch e riduzione del tempo/costo di setup. Procedura **SMED**, ovvero spostare gli strumenti per ottimizzare.
 
 2. usare un sistema pull (produzione su domanda) e non push (produzione su previsione)
    
