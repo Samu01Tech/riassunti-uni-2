@@ -14,7 +14,7 @@ Per definire il concetto di qualità possiamo affidarci alle categorie proposte 
 
 - **trascendent** - eccellenza innata e tangibile
 
-- **gap-based** - aspettative e percezioni; sempre tenere conto del gap fra *customer expectations* e *perception of the service*
+- **gap-based** - aspettative e percezioni; sempre tenere conto del gap fra _customer expectations_ e _perception of the service_
 
 Per misurare la qualità invece avremo bisogno di indicatori quali performance, estetica, features, conformità a norme, affidabilità durabilità, qualità percepita e servizi connessi.
 
@@ -62,7 +62,7 @@ Il grafico qui sotto mostra la quantità di sforzi da dedicare alla qualità.
 
 ![](../assets/2023-05-09-19-07-25-image.png)
 
-*Il costo della qualità è sempre più alto perché la tecnologia e la globalizzazione hanno incrementato la complessità di prodotti e servizi, aumentando però anche le aspettative dei consumatori. Quality provision ha costi più alti per assicurare maggiori livelli di qualità, tuttavia un errore è più significativo che in passato*
+_Il costo della qualità è sempre più alto perché la tecnologia e la globalizzazione hanno incrementato la complessità di prodotti e servizi, aumentando però anche le aspettative dei consumatori. Quality provision ha costi più alti per assicurare maggiori livelli di qualità, tuttavia un errore è più significativo che in passato_
 
 Il **modello a cono di sabbia** suggerisce che una riduzione dei costi è data da basi solide di altri obiettivi, qualità in pirmis.
 
@@ -110,24 +110,24 @@ Inoltre ogni stazione di montaggio nella linea di produzione è essa stessa un c
 
 Per ridurre lo spreco possiamo adottare diverse tecniche:
 
-1. Value Stream Mapping - un flow chart per scoprire ed eliminare le NVA. Sfrutta l'indicatore *Process Efficiency* (VA time/total time)
-   
+1. Value Stream Mapping - un flow chart per scoprire ed eliminare le NVA. Sfrutta l'indicatore _Process Efficiency_ (VA time/total time)
+
    1. Value added - necessarie e volute
-   
+
    2. Non-value added - non necessarie e non volute
-   
+
    3. Business non-value added - necessarie e non volute
 
 2. 5S - praticamente migliorare l'ambiente di lavoro (zone pulite)
-   
+
    1. Sorting
-   
+
    2. Set in order
-   
+
    3. Sweeping
-   
+
    4. Standardization
-   
+
    5. Self-Discipline
 
 ## Just-In-Time
@@ -135,13 +135,13 @@ Per ridurre lo spreco possiamo adottare diverse tecniche:
 Ovvero sincronizzare il processo di produzione con la domanda del prodotto.
 
 1. produrre al rateo della domanda del consumatore
-   
+
    1. piccole batch e riduzione del tempo/costo di setup. Procedura **SMED**, ovvero spostare gli strumenti per ottimizzare.
 
 2. usare un sistema pull (produzione su domanda) e non push (produzione su previsione)
-   
+
    1. Kanban metodology
-   
+
    2. Un buffer di magazzino più piccolo espone prima eventuali difetti
 
 ## Lean manufacturing
@@ -153,7 +153,7 @@ Ovvero sincronizzare il processo di produzione con la domanda del prodotto.
 
 2. Demand Pull - gli output diventano il trigger per l'inizio del processo
 
-3. Level Production - i diversi prodotti sono alternati spesso
+3. Level Production - i diversi prodotti sono alternati spesso (es. diversi colori)
 
 4. Quality at the source - prima vedi un difetto meno ti costa
 

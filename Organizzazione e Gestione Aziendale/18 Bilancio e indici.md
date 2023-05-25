@@ -1,6 +1,6 @@
 # Bilancio Aziendale e Indici
 
-Il bilnacio di esercizio è obbligatorio per le società di capitali. Per le società di persone invece, se sotto certi limiti, viene effettuato un bilancio sempificato.
+Il bilancio d'esercizio è obbligatorio per le società di capitali. Per le società di persone invece, se sotto certi limiti, viene effettuato un bilancio sempificato.
 
 Il bilancio d'esercizio è composto da 4 parti:
 
@@ -100,15 +100,15 @@ Se è **positivo** le AC sono finanziate anche da debiti M/l termine, situazione
 L'obiettivo di questa analisi è quello di valutare la capacità dell'azienda di far fronte ai debiti a breve termine (fornitori).
 
 > Rapporto corrente = (Attivo circolante [SP] - rimanenze) / Debiti [SP]
-> 
+>
 > Rapporto di liquidità = Attivo circolante [SP] / Debiti [SP]
-> 
+>
 > Tempo medio di incasso (TMI) = crediti v/clienti [SP sez.C] / ricavi di vendita [CE sez. A] \* 365
-> 
+>
 > Tempo medio di pagamento (TMP) = debiti v/fornitori [SP sez. D] / costi per materie prime [CE sez. B] \* 365
-> 
+>
 > Tempo medio di giacenza delle scorte (TMGS) = scorte [CE variazioni] / costi per materie prime [CE sez. B] \* 365
-> 
+>
 > **Ciclo del circolante = TMI - TMP + TMGS**
 
 Il ciclo del circolante indica il tempo medio fra il pagamento di un fornitore e l'incasso di un credito.
@@ -118,21 +118,21 @@ Il ciclo del circolante indica il tempo medio fra il pagamento di un fornitore e
 L'obiettivo di questa analisi è quello di valutare la capacità dell'azienda di far fronte ai debiti a lungo termine (investimenti e finanziamenti).
 
 > Rapporto di indebitamento = Debiti [SP sez. D] / Debiti [SP sez. D] + Patrimonio netto [SP sez. A]
-> 
+>
 > _Dipendenza da terzi_
 
 > Copertura degli oneri finanziari = Reddito Operativo [CE ric.] / Oneri Finanziari [CE sez. 2]
-> 
+>
 > _Se inferiore a 1, la gestione caratteristica potrebbe non coprire gli oneri_
 
 > Quoziente di copertura delle immobilizzazioni = Attività consolidate [es. immobilizzazioni SP ric.] / (Passività consolidate [es. debiti > 12 mesi SP] + Capitale Proprio [ex Patrimonio Netto SP ric.])
-> 
+>
 > _Se maggiore di 1 indica che l'attivo immobilizzato è finanziato da passività con scadenza nell'esercizio_
 
 > Rapporto tra debiti a B termine e a M/L termine = Debiti a breve [SP sez. D] / Debiti M/L [SP sez. D + E]
 
 > Onerosità media dell'indebitamento = Oneri Finanziari [CE sez. 2] / Debiti Finanziari [SP banche e obbligazioni]
-> 
+>
 > _Esprime il costo medio dei finanziamenti_
 
 #### Redditività e produttività
@@ -140,24 +140,24 @@ L'obiettivo di questa analisi è quello di valutare la capacità dell'azienda di
 Ovvero la capacità di un'azienda di generare ricchezza, calcolata sulla riclassificazione del CE.
 
 > Return On Equity (ROE) = Reddito d'Esrcizio (Utile) [CE ric.] / Patrimonio Netto [SP sez. A] \* 100
-> 
+>
 > _Indica quanto il capitale investito ha effetto sull'azienda, rendimento del capitale proprio_
 
 > Return On Investment (ROI) = Reddito Operativo [CE ric.] / Totale Attivo [Impieghi SP ric.] \* 100
 > _Indica quanto gli investimenti effettuati siano in grado di generare reddito_
 
 > Return On Sales (ROS) = Reddito Operativo [CE ric.] / Ricavi di vendita [CE sez. A] \* 100
-> 
+>
 > _Indica la redditività delle vendite. Il reddito operativo deve essere in grado di ripagare almeno gli interessi passivi._
 
 > Tasso di rotazione del capitale investito = ROI / ROS
-> 
+>
 > _Indica il numero di volte in cui il capitale investito nella gestione tipica torna come liquidità attraverso le vendite. è un numero_
 
 #### Composizione dell'attivo
 
 > Grado di ammortamento delle immobilizzazioni tecniche = Fondi di ammortamento / Immobilizzazioni tecniche \* 100
-> 
+>
 > _Esprime la quota di immobilizzazioni tecniche recuperate dal capitale investito_
 
 > Tasso di sviluppo delle immobilizzazioni tecniche = Investimenti tecnici dell'esercizio / Immobilizzazioni presenti all'inizio dell'esercizio \* 100
@@ -172,7 +172,84 @@ Il loro prodotto costituisce il **rischio complessivo**
 ![](../assets/2023-05-22-17-38-05-image.png)
 
 > Leva Operativa = Margine di Contribuzione / Reddito Operativo
-> 
+>
 > _Una leva operativa elevata indica un'elevata di incidenza di costi fissi e una pericolosa elasticità del RO all variare delle vendite. Se la leva è negativa l'azienda è a rischio di fallimento._
 
+#### WACC
 
+#### Beta caratteristico
+
+### Valutazioni sugli investimenti aziendali
+
+Un investimento è un impegno di risorse monetarie di lungo periodo per il quale si ipotizza:
+
+- il recupero del denaro inizialmente investito (recupero dell’investimento)
+- un rendimento sulla somma investita adeguato alla durata e al rischio dell’operazione (ritorno dell’investimento)
+
+I **prezzi ombra** rappresentano il valore marginale di un fattore di produzione o di consumo, ovvero l'incremento del valore di un'attività o di un bene che si ottiene aumentando l'unità di quel fattore di produzione o di consumo di una quantità infinitesimale.
+
+La domanda che bisogna porsi prima di fare un investimento è: _l'entrata di cassa che l’investimento prospetta è sufficiente a giustificare l’esborso iniziale?_
+
+Il termine **prestito** in economia indica la cessione di una somma di denaro con il vincolo della restituzione di capitali di pari valore o maggiori (capitale + interessi).
+
+Elementi costitutivi di un prestito sono:
+
+- Il capitale finanziato
+- Il tasso di interesse
+- La durata del prestito
+- L'importo e la periodicità delle rate
+
+Il processo di attualizzazione (o sconto) è il processo inverso della capitalizzazione, ovvero il processo che permette di calcolare il valore attuale di un capitale futuro.
+
+> Ad esempio, se una persona ha la possibilità di ricevere $1000 tra un anno, e il tasso di interesse attuale è del 5%, il valore attuale di quei $1000 sarà inferiore a $1000, perché la persona potrebbe investire quei soldi oggi e guadagnare interesse. Il valore attuale dei $1000 sarà quindi pari a $952.38 (cioè $1000 diviso per 1.05, che rappresenta il fattore di sconto).
+
+Tuttavia il processo di attualizzazione non è sempre così semplice, perché il tasso di interesse può variare nel tempo.
+
+Tasso di interesse semplice: il tasso di interesse si applica solo sul capitale iniziale. [$V = C \cdot (1 + i \cdot n)$]
+
+Tasso di interesse composto: il tasso di interesse si applica anche sugli interessi maturati. [$V = C \cdot (1 + i)^n$]
+
+**Montante capitalizzato su più anni**
+
+$M = C \cdot (1 + i)^n$
+
+> Capitale iniziale = 1.000, tasso di interesse = 5%
+>
+> Montante dopo 10 anni = $1.000 \cdot (1 + 0.05)^{10} = 1.628$
+
+**Valore attuale di un capitale futuro**
+
+$V =  \frac{M}{(1 + i)^n}$
+
+> Incasso di 25.000 tra 5 anni, tasso di interesse 7%
+>
+> Valore attuale = $V = \frac{25.000}{(1 + 0.07)^{5}} = 9.061,10$
+
+Il valore attuale di una serie di flussi di cassa (benefici-costi) rappresenta il valore presente dei flussi di cassa futuri generati da un progetto o da un investimento, tenendo conto dei costi e dei benefici associati a tale progetto o investimento. Consiste nel calcolo del valore attuale di ogni flusso di cassa futuro, sommando poi i valori ottenuti.
+
+#### Valore attuale netto (VAN)
+
+Il VAN è una metodologia tramite cui si definisce il valore di una serie attesa di flussi di cassa (benefici-costi) attesi al netto dell’esborso iniziale.
+
+In pratica, il VAN rappresenta la differenza tra il valore attuale dei flussi di cassa in entrata e il valore attuale dei flussi di cassa in uscita, calcolati utilizzando un tasso di sconto appropriato. Un **valore positivo** del VAN indica che l'**investimento è conveniente**, mentre un valore negativo indica che l'investimento non è conveniente.
+
+La formula del Valore Attuale Netto è la seguente:
+
+$$
+VAN = \sum_{t=0}^{n} \frac{R_t}{(1+i)^t} - \sum_{t=0}^{n} \frac{C_t}{(1+i)^t}
+$$
+
+dove:
+
+- _R_t_ rappresenta il flusso di cassa in entrata (ovvero il ricavo) nel periodo t
+- _C_t_ rappresenta il flusso di cassa in uscita (ovvero il costo) nel periodo t
+- _i_ rappresenta il tasso di sconto utilizzato per attualizzare i flussi di cassa
+- _n_ rappresenta l'ultimo periodo in cui si verifica un flusso di cassa.
+
+Semplificando la sommatoria di C_t si può sostituire con $I$ ovvero l'investimento iniziale.
+
+#### Tasso interno di rendimento (TIR)
+
+Il TIR è il tasso di sconto che rende il VAN uguale a zero. In altre parole, il TIR è il tasso di sconto che rende il valore attuale dei flussi di cassa in entrata uguale al valore attuale dei flussi di cassa in uscita.
+
+TIR > costo opportunità del capitale -> VAN > 0 il progetto è economicamente conveniente
