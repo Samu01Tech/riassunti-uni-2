@@ -10,9 +10,7 @@ Il ruolo degli acquisti contribuisce spesso per il 60-70+ % del prezzo finale de
 
 **ROS (Return on Sales)**: Margine Operativo (EBITDA) / Fatturato
 
-**Indice di rotazione delle attività**: Fatturato / Attività totali
-
-**ROA (Return on Assets)**: ROS * Indice di rotazione delle attività
+**ROA (Return on Assets)**: Fatturato / Totale attivo
 
 Nel caso in cui aumenti il **fatturato** o diminuiscano i costi delle **materie prime**, il ROA aumenterà. Questo effetto è chiamato **effetto leva degli acquisti**.
 
