@@ -175,9 +175,39 @@ Il loro prodotto costituisce il **rischio complessivo**
 >
 > _Una leva operativa elevata indica un'elevata di incidenza di costi fissi e una pericolosa elasticità del RO all variare delle vendite. Se la leva è negativa l'azienda è a rischio di fallimento._
 
-#### WACC
+### Discount Cash Flow Analysis
 
-#### Beta caratteristico
+#### WACC e Beta caratteristico
+
+Il WACC (Weighted Average Cost of Capital) è il costo medio ponderato del capitale. È un tasso, la cui formula permette di calcolare il costo del capitale di un’impresa, ovvero il tasso al quale l’azienda deve remunerare i suoi finanziatori (azionisti, detentori di titoli di debito).
+
+$$
+WACC =  k_d \cdot (1 - t) \cdot \frac{D}{E + D} + k_e \cdot \frac{E}{E + D}
+$$
+
+> - $k_d \cdot (1-t)$ = costo del debito al netto della fiscalità (ovvero tasso di interesse al netto della deducibilità fiscale degli interessi passivi)
+> - $D$ = valore del debito gravato da interessi
+> - $E$ = valore dell’Equity (patrimonio netto)
+> - $k_e$ = costo del capitale proprio o di rischio
+
+$$
+k_e = r_f + \beta (r_m - r_f)
+$$
+
+> - $r_f$ è il tasso di interesse di un titolo privo di rischio (es. BTP decennale)
+> - $\beta$ è la misura del rischio teorico di un titolo azionario rapportato all’intero mercato (dato da un indice come il Mibtel)
+> - $r_m - r_f$ è il premio per il rischio di mercato (perché si investe in azioni e non in titoli privi di rischio)
+
+- Beta < 1 : il titolo segue il mercato ma con una volatilità inferiore, rischio minore
+- Beta = 1 : il titolo segue il mercato
+- Beta > 1 : il titolo segue il mercato ma con una volatilità superiore, rischio maggiore
+- Beta <= 0 : il titolo non segue il mercato o va in direzione opposta
+
+Il Beta può essere calcolato (covarianza mercato/azienda diviso varianza del mercato) oppure si può utilizzare il Beta caratteristico di un settore (**Beta di settore**) o ancora di società simili sul mercato (**shadow Beta**).
+
+Con **unlevered Beta** si intende il Beta di un'azienda che prende in esame solo i rischi dell'attività produttiva. Moltiplicando per il premio del rischio finanziario si ottiene il **levered Beta**.
+
+![](../assets/2023-05-30-09-56-00-image.png)
 
 ### Valutazioni sugli investimenti aziendali
 
