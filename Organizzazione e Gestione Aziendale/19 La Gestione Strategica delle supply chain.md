@@ -21,12 +21,19 @@ Il lato fornitori viene detto **upstream**, il lato clienti **downstream**.
 
 Quando di parla di **Second Tier Supplier** si intende il fornitore del fornitore. Su di esso non si ha controllo diretto e la comunicazione è molto complessa.
 
+> DELL ad esempio ha 4 differenti supply chain:
+>
+> 1. Built to order -> pc custom per cliente spesso da un e-commemrce
+> 2. Built to plan -> pc per rivenditori con poche configurazioni
+> 3. Built to stock -> pc con poche configurazioni ma pronti in magazzino
+> 4. Built to spec -> pc per aziende con configurazioni specifiche
+
 ## Supply Chain strategy and Dynamics
 
-Le tecniche di SCM sono state sviluppate per:
+Le tecniche di SCM si sviluppano principalmente su:
 
-- Global ...
-- Uncertainty
+- global optimization
+- managing uncertainty
 
 ### Tools and Strategies for Optimization
 
@@ -36,7 +43,7 @@ Le tecniche di SCM sono state sviluppate per:
 - Design for Logistics
 - Cross Docking
 
-Ottimizzare è difficile perché ci sono molti fattori da considerare e spesso sono in conflitto tra loro.
+Ottimizzare è difficile perché ci sono molti fattori da considerare (acquisti, produzione, magazzino, clienti) e spesso sono in conflitto tra loro.
 
 ### Bullwhip Effect
 
@@ -48,8 +55,27 @@ La causa principale è la **mancata comunicazione** tra i vari attori della supp
 
 È essenziale fare un **pull** delle informazioni del mercato.
 
+Alcune contromisure sono:
+
+- E-commerce: migliore visione della domanda
+- Express delivery: riduce i tempi variazione della domanda
+- Collaborative planning, forecasting and replenishment (CPFR) : condivisione delle informazioni tra i vari attori della supply chain
+- Vendor managed inventory (VMI): il fornitore gestisce l'inventario del cliente
+- Supply contracts: contratti di fornitura che vincolano il cliente a comprare una certa quantità di prodotto
+
 ### Functional Products vs Innovative Products
 
 I prodotti innovativi sono quelli che hanno un ciclo di vita breve e che hanno un alto margine di profitto. I prodotti funzionali sono quelli che hanno un ciclo di vita lungo e che hanno un basso margine di profitto.
 
 ## Supply Chain Design: Fisher Model
+
+![](../assets/2023-05-30-11-14-01-image.png)
+
+_$\uparrow$ Un prodotto funzionale dovrebbe puntare a un processo efficiente fornendo il prodotto a un costo basso. Un prodotto innovativo invece si deve concentrare sulla velocità di consegna per soddisfare la domanda._
+
+Il modello di Fisher è un modello di supply chain design che si basa sul ciclo di vita del prodotto.
+
+- Physical Efficient Process: Lean
+- Market Responsive Process: Agile
+
+Lean e Agile possono essere combinati tramite tecniche come modularità, postponement e mass customization.
